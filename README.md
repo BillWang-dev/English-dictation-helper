@@ -9,5 +9,6 @@ Help people learn English by dictation, similar to tedict.
 
 下面是展示.
 
-
 <img width="922" alt="截图" src="https://github.com/user-attachments/assets/f13868c4-3c07-4fba-a5e5-69a07d24a041" />
+
+## 测试一下commit
